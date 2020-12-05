@@ -1,4 +1,4 @@
-﻿[Design]
+[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -288,16 +288,16 @@ Description=Smartfin Main PCBA - 2G/3G
 AllowFabrication=0
 ParameterCount=5
 VariationCount=10
-Variation1=Designator=R34|UniqueId=\XWFOLWFS\CRRPQHOI\TTDGSKQB|Kind=1|AlternatePart=
-Variation2=Designator=R37|UniqueId=\XWFOLWFS\CRRPQHOI\UKPQWSSO|Kind=1|AlternatePart=
-Variation3=Designator=R39|UniqueId=\XWFOLWFS\CRRPQHOI\MRFJPVEG|Kind=1|AlternatePart=
-Variation4=Designator=U8|UniqueId=\XWFOLWFS\CRRPQHOI\JRBAUNPK|Kind=1|AlternatePart=
-Variation5=Designator=R13|UniqueId=\XWFOLWFS\CRRPQHOI\NYZULQTR|Kind=1|AlternatePart=
-Variation6=Designator=R36|UniqueId=\XWFOLWFS\CRRPQHOI\CPNJFELC|Kind=1|AlternatePart=
-Variation7=Designator=R32|UniqueId=\XWFOLWFS\CRRPQHOI\WBGBTAGG|Kind=1|AlternatePart=
-Variation8=Designator=R35|UniqueId=\XWFOLWFS\CRRPQHOI\SUSHIVKU|Kind=1|AlternatePart=
-Variation9=Designator=J1|UniqueId=\XWFOLWFS\OKYBHWKJ\XSLUBKXF|Kind=1|AlternatePart=
-Variation10=Designator=J3|UniqueId=\XWFOLWFS\CRRPQHOI\HSUTTTBD|Kind=1|AlternatePart=
+Variation1=Designator=R34|UniqueId=\XWFOLWFS\CRRPQHOI\TTDGSKQB|Kind=1|AlternatePart= 
+Variation2=Designator=R37|UniqueId=\XWFOLWFS\CRRPQHOI\UKPQWSSO|Kind=1|AlternatePart= 
+Variation3=Designator=R39|UniqueId=\XWFOLWFS\CRRPQHOI\MRFJPVEG|Kind=1|AlternatePart= 
+Variation4=Designator=U8|UniqueId=\XWFOLWFS\CRRPQHOI\JRBAUNPK|Kind=1|AlternatePart= 
+Variation5=Designator=R13|UniqueId=\XWFOLWFS\CRRPQHOI\NYZULQTR|Kind=1|AlternatePart= 
+Variation6=Designator=R36|UniqueId=\XWFOLWFS\CRRPQHOI\CPNJFELC|Kind=1|AlternatePart= 
+Variation7=Designator=R32|UniqueId=\XWFOLWFS\CRRPQHOI\WBGBTAGG|Kind=1|AlternatePart= 
+Variation8=Designator=R35|UniqueId=\XWFOLWFS\CRRPQHOI\SUSHIVKU|Kind=1|AlternatePart= 
+Variation9=Designator=J1|UniqueId=\XWFOLWFS\OKYBHWKJ\XSLUBKXF|Kind=1|AlternatePart= 
+Variation10=Designator=J3|UniqueId=\XWFOLWFS\CRRPQHOI\HSUTTTBD|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter2_1]
@@ -326,16 +326,16 @@ Description=Smartfin Main PCBA - LTE
 AllowFabrication=0
 ParameterCount=5
 VariationCount=11
-Variation1=Designator=R34|UniqueId=\XWFOLWFS\CRRPQHOI\TTDGSKQB|Kind=1|AlternatePart=
-Variation2=Designator=R37|UniqueId=\XWFOLWFS\CRRPQHOI\UKPQWSSO|Kind=1|AlternatePart=
-Variation3=Designator=R39|UniqueId=\XWFOLWFS\CRRPQHOI\MRFJPVEG|Kind=1|AlternatePart=
-Variation4=Designator=U8|UniqueId=\XWFOLWFS\CRRPQHOI\JRBAUNPK|Kind=1|AlternatePart=
-Variation5=Designator=R13|UniqueId=\XWFOLWFS\CRRPQHOI\NYZULQTR|Kind=1|AlternatePart=
-Variation6=Designator=R36|UniqueId=\XWFOLWFS\CRRPQHOI\CPNJFELC|Kind=1|AlternatePart=
-Variation7=Designator=R32|UniqueId=\XWFOLWFS\CRRPQHOI\WBGBTAGG|Kind=1|AlternatePart=
-Variation8=Designator=R35|UniqueId=\XWFOLWFS\CRRPQHOI\SUSHIVKU|Kind=1|AlternatePart=
-Variation9=Designator=J1|UniqueId=\XWFOLWFS\OKYBHWKJ\XSLUBKXF|Kind=1|AlternatePart=
-Variation10=Designator=J3|UniqueId=\XWFOLWFS\CRRPQHOI\HSUTTTBD|Kind=1|AlternatePart=
+Variation1=Designator=R34|UniqueId=\XWFOLWFS\CRRPQHOI\TTDGSKQB|Kind=1|AlternatePart= 
+Variation2=Designator=R37|UniqueId=\XWFOLWFS\CRRPQHOI\UKPQWSSO|Kind=1|AlternatePart= 
+Variation3=Designator=R39|UniqueId=\XWFOLWFS\CRRPQHOI\MRFJPVEG|Kind=1|AlternatePart= 
+Variation4=Designator=U8|UniqueId=\XWFOLWFS\CRRPQHOI\JRBAUNPK|Kind=1|AlternatePart= 
+Variation5=Designator=R13|UniqueId=\XWFOLWFS\CRRPQHOI\NYZULQTR|Kind=1|AlternatePart= 
+Variation6=Designator=R36|UniqueId=\XWFOLWFS\CRRPQHOI\CPNJFELC|Kind=1|AlternatePart= 
+Variation7=Designator=R32|UniqueId=\XWFOLWFS\CRRPQHOI\WBGBTAGG|Kind=1|AlternatePart= 
+Variation8=Designator=R35|UniqueId=\XWFOLWFS\CRRPQHOI\SUSHIVKU|Kind=1|AlternatePart= 
+Variation9=Designator=J1|UniqueId=\XWFOLWFS\OKYBHWKJ\XSLUBKXF|Kind=1|AlternatePart= 
+Variation10=Designator=J3|UniqueId=\XWFOLWFS\CRRPQHOI\HSUTTTBD|Kind=1|AlternatePart= 
 Variation11=Designator=U1|UniqueId=\XWFOLWFS\CRRPQHOI\EDVHYGOB|Kind=2|AlternatePart=Particle E-Series LTE CAT M1|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=Syncroness Vault|AltLibLink_SymbolReference=CMP-23692-A.9|AltLibLink_DesignItemID=CMP-23692-A.9|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Syncroness Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=DF6290C1-A6F2-4676-B023-DC522903B088|AltLibLink_ItemGUID=58490942-11ad-491c-817c-87dd542658c3|AltLibLink_RevisionGUID=cd714837-357b-47d3-968a-8fbbae04aaf4|AltLibLink_Footprint=Particle E-Series-Footprint-1|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue=Particle E-Series LTE CAT M1
 ParamDesignator1=U1
@@ -347,7 +347,7 @@ ParamVariation4=ParameterName=Description|VariantValue=LTE CAT M1, U-blox SARA-R
 ParamDesignator4=U1
 ParamVariation5=ParameterName=Footprint|VariantValue=Particle E-Series-Footprint-1
 ParamDesignator5=U1
-ParamVariation6=ParameterName=Ibis Model|VariantValue=
+ParamVariation6=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator6=U1
 ParamVariation7=ParameterName=Library Reference|VariantValue=CMP-23692-A.9
 ParamDesignator7=U1
@@ -355,13 +355,13 @@ ParamVariation8=ParameterName=Manufacturer|VariantValue=Particle
 ParamDesignator8=U1
 ParamVariation9=ParameterName=Manufacturer Part Number|VariantValue=E402
 ParamDesignator9=U1
-ParamVariation10=ParameterName=PCB3D|VariantValue=
+ParamVariation10=ParameterName=PCB3D|VariantValue= 
 ParamDesignator10=U1
-ParamVariation11=ParameterName=Pin Info|VariantValue=
+ParamVariation11=ParameterName=Pin Info|VariantValue= 
 ParamDesignator11=U1
-ParamVariation12=ParameterName=Signal Integrity|VariantValue=
+ParamVariation12=ParameterName=Signal Integrity|VariantValue= 
 ParamDesignator12=U1
-ParamVariation13=ParameterName=Simulation|VariantValue=
+ParamVariation13=ParameterName=Simulation|VariantValue= 
 ParamDesignator13=U1
 ParamVariation14=ParameterName=Supplier|VariantValue=Particle
 ParamDesignator14=U1
@@ -388,30 +388,6 @@ Value=644-001-031
 [Parameter3_5]
 Name=SCH_DOCNUM
 Value=644-001-033
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Smartfin Main PCBA\Design Rule Check - Smartfin Main PCBA.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.REP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.RUL
-DItemRevisionGUID=
 
 [Parameter1]
 Name=ASY_Accept_RB_Value
@@ -1047,7 +1023,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=\\print-1\SUITE-500-RICOH
+TargetPrinter=p3107-b1 (HP LaserJet M605)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -1153,7 +1129,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=p3107-b1 (HP LaserJet M605)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1223,17 +1199,11 @@ OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType11=PDF3D MBA
-OutputName11=PDF3D MBA
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=\\print-1\SUITE-500-RICOH
+TargetPrinter=p3107-b1 (HP LaserJet M605)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -1255,7 +1225,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=\\print-1\SUITE-500-RICOH
+TargetPrinter=p3107-b1 (HP LaserJet M605)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -1331,7 +1301,7 @@ Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=\\print-1\SUITE-500-RICOH
+TargetPrinter=p3107-b1 (HP LaserJet M605)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -1380,7 +1350,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=\\print-1\SUITE-500-RICOH
+TargetPrinter=p3107-b1 (HP LaserJet M605)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1560,7 +1530,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=\\print-1\SUITE-500-RICOH
+TargetPrinter=p3107-b1 (HP LaserJet M605)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Configuration compliance
 OutputName1=Environment configuration compliance check
@@ -1604,7 +1574,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=\\print-1\SUITE-500-RICOH
+TargetPrinter=p3107-b1 (HP LaserJet M605)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1661,16 +1631,11 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Web ReviewOutputName
-OutputName12=Web Review Data
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=p3107-b1 (HP LaserJet M605)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1796,8 +1761,6 @@ Type114=1
 Type115=1
 Type116=1
 Type117=1
-Type118=1
-Type119=1
 
 [Difference Levels]
 Type1=1
@@ -1866,8 +1829,6 @@ Type63=1
 Type64=1
 Type65=1
 Type66=1
-Type67=1
-Type68=1
 
 [Electrical Rules Check]
 Type1=1
@@ -2015,7 +1976,6 @@ L17=WNNNNNNNWNNNWWWWN
 [Annotate]
 SortOrder=3
 SortLocation=0
-ReplaceSubparts=0
 MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
@@ -2036,7 +1996,6 @@ NetClassSeparateForBusSections=0
 [LibraryUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
-UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Full Path
 ComponentLibraryIdentifier0=Syncroness Vault
@@ -2660,7 +2619,6 @@ ModelUpdate16=1
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
-UpdateToLatestRevision=1
 PartTypes=0
 
 [Comparison Options]
