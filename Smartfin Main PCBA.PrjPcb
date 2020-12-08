@@ -333,6 +333,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document18]
+DocumentPath=PCBMinion.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document19]
+DocumentPath=PCBMinion_NC.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=C246BEA5-136F-4B9E-98D9-E8383F1DFA4E
 Description=Smartfin Main PCBA - 2G/3G
@@ -441,848 +475,660 @@ Name=SCH_DOCNUM
 Value=644-001-033
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\comp_+_bot\components
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\board_outline\features
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\border\features
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\bottom_3d_body\features
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\bottom_assembly\features
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\bottom_courtyard\features
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\bottom_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\bottom_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\bottom_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\bottom_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\comp_+_bot\features
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\dielectric1\features
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\dielectric2\features
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\dielectric_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\drill_drawing\features
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\drill_guide\features
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\dxf_mechanical\features
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\gnd\features
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\keep-out_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\mechanical_8\features
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\multi-layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\power\features
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\route_guide\features
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\top_3d_body\features
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\top_assembly\features
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\top_courtyard\features
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\top_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\top_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\symbols\rect19.685x23.622_210\features
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\symbols\rect25.685x29.622_210\features
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\symbols\rect80x50_31_offset-19.685x0\features
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\symbols\rect86x56_31_offset-19.685x0\features
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\symbols\rect99.685x69.685_90_offset-19.685x0\features
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\symbols\rect105.685x75.685_90_offset-19.685x0\features
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\symbols\s150_302\features
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\symbols\s156_302\features
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument46]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument47]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument48]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument49]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument50]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument51]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument52]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument53]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument54]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument55]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument56]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GM4
 DItemRevisionGUID=
 
-[GeneratedDocument57]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GM6
 DItemRevisionGUID=
 
-[GeneratedDocument58]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GM8
 DItemRevisionGUID=
 
-[GeneratedDocument59]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument60]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument61]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GP1
 DItemRevisionGUID=
 
-[GeneratedDocument62]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GP2
 DItemRevisionGUID=
 
-[GeneratedDocument63]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument64]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument65]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument66]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument67]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument68]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument69]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument70]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.REP
 DItemRevisionGUID=
 
-[GeneratedDocument71]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument72]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for Smartfin Main PCBA\Smartfin Main PCBA.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument73]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument74]
-DocumentPath=Project Outputs for Smartfin Main PCBA\odb\steps\pcb\layers\drill\tools
-DItemRevisionGUID=
-
 [Parameter1]
-Name=STATUS
-Value=
-
-[Parameter2]
-Name=SOLDERMASK_USE_LPI
-Value=FALSE
-
-[Parameter3]
-Name=SOLDERMASK_COLOR
-Value=BLUE
-
-[Parameter4]
-Name=SCH_DOCNUM
-Value=644-001-023
-
-[Parameter5]
-Name=SCH_CURRENT_REV
-Value=C
-
-[Parameter6]
-Name=PROJECT_NUM
-Value=644-001
-
-[Parameter7]
-Name=PROJECT_NAME
-Value=Smartfin
-
-[Parameter8]
-Name=OVERLAY_USE_LPI
-Value=FALSE
-
-[Parameter9]
-Name=OVERLAY_COLOR
-Value=WHITE
-
-[Parameter10]
-Name=FAB_THIEVING_SPACE
-Value=0.100"
-
-[Parameter11]
-Name=FAB_THICKNESS
-Value=0.032
-
-[Parameter12]
-Name=FAB_SURFACE_FINISH
-Value=ENIG
-
-[Parameter13]
-Name=FAB_STANDARD_RG_VALUE
-Value=1
-
-[Parameter14]
-Name=FAB_STACKUP_CB_VALUE
-Value=0
-
-[Parameter15]
-Name=FAB_STACKUP
-Value=USE FABRICATOR'S STANDARD LAYER STACK
-
-[Parameter16]
-Name=FAB_SOLDER_SLIVERS
-Value=0.004"
-
-[Parameter17]
-Name=FAB_SOLDERMASK_COLOR
-Value=BLUE
-
-[Parameter18]
-Name=FAB_SM_LPI
-Value=
-
-[Parameter19]
-Name=FAB_ROHS
-Value=SHALL BE ROHS COMPLIANT
-
-[Parameter20]
-Name=FAB_OVERLAY_COLOR
-Value=WHITE
-
-[Parameter21]
-Name=FAB_OL_LPI
-Value=
-
-[Parameter22]
-Name=FAB_MIN_ANNULAR_RING
-Value=0.005"
-
-[Parameter23]
-Name=FAB_MATERIAL_RG_VALUE
-Value=3
-
-[Parameter24]
-Name=FAB_MATERIAL
-Value=FR370-HR
-
-[Parameter25]
-Name=FAB_LAYER_REGISTRATION
-Value=0.005"
-
-[Parameter26]
-Name=FAB_LAYERS
-Value=4
-
-[Parameter27]
-Name=FAB_IPC_STD
-Value=IPC-6012
-
-[Parameter28]
-Name=FAB_INSPECT_CLASS
-Value=2
-
-[Parameter29]
-Name=FAB_HOLE_LOCATION
-Value=0.008"
-
-[Parameter30]
-Name=FAB_FINISH_RG_VALUE
-Value=0
-
-[Parameter31]
-Name=FAB_FINISHED_CU_WEIGHT
-Value=1.5
-
-[Parameter32]
-Name=FAB_FAB_CLASS
-Value=2
-
-[Parameter33]
-Name=FAB_ECO_REV5
-Value=
-
-[Parameter34]
-Name=FAB_ECO_REV4
-Value=
-
-[Parameter35]
-Name=FAB_ECO_REV3
-Value=C
-
-[Parameter36]
-Name=FAB_ECO_REV2
-Value=B
-
-[Parameter37]
-Name=FAB_ECO_REV1
-Value=A
-
-[Parameter38]
-Name=FAB_ECO_NUM_CURRENT
-Value=13237
-
-[Parameter39]
-Name=FAB_ECO_NUM5
-Value=
-
-[Parameter40]
-Name=FAB_ECO_NUM4
-Value=
-
-[Parameter41]
-Name=FAB_ECO_NUM3
-Value=13237
-
-[Parameter42]
-Name=FAB_ECO_NUM2
-Value=13065
-
-[Parameter43]
-Name=FAB_ECO_NUM1
-Value=12932
-
-[Parameter44]
-Name=FAB_ECO_DESC5
-Value=
-
-[Parameter45]
-Name=FAB_ECO_DESC4
-Value=
-
-[Parameter46]
-Name=FAB_ECO_DESC3
-Value=UPDATED SS IN GPS AREA. MODIFED INTERNAL GND POURS IN GPS AREA. SEE ECO FOR DETAILS.
-
-[Parameter47]
-Name=FAB_ECO_DESC2
-Value=MISCELLANEOUS UPDATES. SEE ECO FOR DETAILS.
-
-[Parameter48]
-Name=FAB_ECO_DESC1
-Value=INITIAL RELEASE
-
-[Parameter49]
-Name=FAB_ECO_DATE5
-Value=
-
-[Parameter50]
-Name=FAB_ECO_DATE4
-Value=
-
-[Parameter51]
-Name=FAB_ECO_DATE3
-Value=8/17/2020
-
-[Parameter52]
-Name=FAB_ECO_DATE2
-Value=2/10/2020
-
-[Parameter53]
-Name=FAB_ECO_DATE1
-Value=10/24/2019
-
-[Parameter54]
-Name=FAB_DRILL_TOLERANCE
-Value=0.003"
-
-[Parameter55]
-Name=FAB_DIMENSIONS_RG_VALUE
-Value=0
-
-[Parameter56]
-Name=FAB_DIMENSIONS
-Value=INCHES
-
-[Parameter57]
-Name=FAB_CURRENT_REV
-Value=C
-
-[Parameter58]
-Name=FAB_ACCEPT_RG_VALUE
-Value=1
-
-[Parameter59]
-Name=FABNOTE_THICKNESS
-Value=0.032
-
-[Parameter60]
-Name=FABNOTE_LAYERS
-Value=4
-
-[Parameter61]
-Name=FABNOTE_CUSTOMSTACK
-Value=FALSE
-
-[Parameter62]
-Name=FABNOTE_12
-Value=12. FINISHED PCB SHALL BE ROHS COMPLIANT.
-
-[Parameter63]
-Name=FABNOTE_11
-Value=11. SURFACE FINISH ON ALL EXPOSED COPPER SHALL BE ENIG.
-
-[Parameter64]
-Name=FABNOTE_10
-Value=10. OVERLAY ON BOTH SIDES, COLOR IS WHITE, UL-94V0 MARK REQUIRED.
-
-[Parameter65]
-Name=FABNOTE_9
-Value=9.  SOLDER MASK BOTH SIDES PER IPC-SM-840, COLOR IS BLUE.
-
-[Parameter66]
-Name=FABNOTE_6
-Value=6.  PCB IS 4 LAYERS, THICKNESS IS 0.032", USE FABRICATOR'S STANDARD LAYER STACK.
-
-[Parameter67]
-Name=FABNOTE_5
-Value=5.  PCB MATERIAL IS EPOXY FIBERGLASS FR370-HR.
-
-[Parameter68]
-Name=FABNOTE_2B
-Value=INSPECT PER IPC-A-600, CLASS 2.
-
-[Parameter69]
-Name=FABNOTE_2A
-Value=2.  FABRICATE PCB PER IPC-6011 AND IPC-6012A, CLASS 2.
-
-[Parameter70]
-Name=FABNOTE_1
-Value=1.  DIMENSIONS ARE IN INCHES.
-
-[Parameter71]
-Name=FABDWG_DOCNUM
-Value=644-001-024
-
-[Parameter72]
-Name=CONTACT_PHONE
-Value=720-409-5253
-
-[Parameter73]
-Name=CONTACT_NAME
-Value=AMY DOMINO
-
-[Parameter74]
-Name=CONTACT_EMAIL
-Value=ADOMINO@SYNCRONESS.COM
-
-[Parameter75]
-Name=BOM_DOCNUM
-Value=644-001-031
-
-[Parameter76]
-Name=BASELINE_ECO_REV3
-Value=C
-
-[Parameter77]
-Name=BASELINE_ECO_REV2
-Value=B
-
-[Parameter78]
-Name=BASELINE_ECO_REV1
-Value=A
-
-[Parameter79]
-Name=BASELINE_ECO_NUM_CURRENT
-Value=13237
-
-[Parameter80]
-Name=BASELINE_ECO_NUM3
-Value=13237
-
-[Parameter81]
-Name=BASELINE_ECO_NUM2
-Value=13065
-
-[Parameter82]
-Name=BASELINE_ECO_NUM1
-Value=12932
-
-[Parameter83]
-Name=BASELINE_ECO_DESC3
-Value=
-
-[Parameter84]
-Name=BASELINE_ECO_DESC2
-Value=
-
-[Parameter85]
-Name=BASELINE_ECO_DESC1
-Value=
-
-[Parameter86]
-Name=BASELINE_ECO_DATE3
-Value=8/17/2020
-
-[Parameter87]
-Name=BASELINE_ECO_DATE2
-Value=2/10/2020
-
-[Parameter88]
-Name=BASELINE_ECO_DATE1
-Value=10/24/2019
-
-[Parameter89]
-Name=BASELINE_DOCNUM
-Value=644-001-033
-
-[Parameter90]
-Name=BASELINE_CURRENT_REV
-Value=C
-
-[Parameter91]
-Name=ASY_XYRS_FILE_NAME
-Value=644-001-032 ASY REV C XYRS ECO13237.TXT
-
-[Parameter92]
-Name=ASY_Wash_CB_Value
-Value=0
-
-[Parameter93]
-Name=ASY_WASH
-Value=NOT PERMITTED
-
-[Parameter94]
-Name=ASY_RoHS_CB_Value
-Value=True
-
-[Parameter95]
-Name=ASY_ROHS
-Value=ROHS COMPLIANT LEAD-FREE SOLDER PROCESS REQUIRED
-
-[Parameter96]
-Name=ASY_NAME
-Value=Smartfin Main PCBA
-
-[Parameter97]
-Name=ASY_Moisture_Sensitive_CB_Value
-Value=1
-
-[Parameter98]
-Name=ASY_ECO_REV5
-Value=
-
-[Parameter99]
-Name=ASY_ECO_REV4
-Value=
-
-[Parameter100]
-Name=ASY_ECO_REV3
-Value=C
-
-[Parameter101]
-Name=ASY_ECO_REV2
-Value=B
-
-[Parameter102]
-Name=ASY_ECO_REV1
-Value=A
-
-[Parameter103]
-Name=ASY_ECO_NUM_CURRENT
-Value=13237
-
-[Parameter104]
-Name=ASY_ECO_NUM5
-Value=
-
-[Parameter105]
-Name=ASY_ECO_NUM4
-Value=
-
-[Parameter106]
-Name=ASY_ECO_NUM3
-Value=13237
-
-[Parameter107]
-Name=ASY_ECO_NUM2
-Value=13065
-
-[Parameter108]
-Name=ASY_ECO_NUM1
-Value=12932
-
-[Parameter109]
-Name=ASY_ECO_DESC5
-Value=
-
-[Parameter110]
-Name=ASY_ECO_DESC4
-Value=
-
-[Parameter111]
-Name=ASY_ECO_DESC3
-Value=UPDATED ASSY NOTES. UPDATED SS IN PCB. UPDATED BOM. SEE ECO FOR DETAILS.
-
-[Parameter112]
-Name=ASY_ECO_DESC2
-Value=MISCELLANEOUS UPDATES. SEE ECO FOR DETAILS.
-
-[Parameter113]
-Name=ASY_ECO_DESC1
-Value=INITIAL RELEASE
-
-[Parameter114]
-Name=ASY_ECO_DATE5
-Value=
-
-[Parameter115]
-Name=ASY_ECO_DATE4
-Value=
-
-[Parameter116]
-Name=ASY_ECO_DATE3
-Value=8/17/2020
-
-[Parameter117]
-Name=ASY_ECO_DATE2
-Value=2/10/2020
-
-[Parameter118]
-Name=ASY_ECO_DATE1
-Value=10/24/2019
-
-[Parameter119]
-Name=ASY_CURRENT_REV
-Value=C
-
-[Parameter120]
-Name=ASY_Confirmal_Coat_CB_Value
-Value=0
-
-[Parameter121]
-Name=ASY_CLASS
-Value=2
-
-[Parameter122]
-Name=ASY_BOM_FILE_NAME
-Value=644-001-031 BOM REV C ECO13237.XLSX
-
-[Parameter123]
 Name=ASY_Accept_RB_Value
 Value=1
 
-[Parameter124]
-Name=ASYNOTE_WASH
-Value=FALSE
+[Parameter2]
+Name=ASY_BOM_FILE_NAME
+Value=644-001-031 BOM REV C ECO13237.XLSX
 
-[Parameter125]
-Name=ASYNOTE_ROHS
-Value=TRUE
+[Parameter3]
+Name=ASY_CLASS
+Value=2
 
-[Parameter126]
-Name=ASYNOTE_MOISTURESENSITIVE
-Value=FALSE
+[Parameter4]
+Name=ASY_Confirmal_Coat_CB_Value
+Value=0
 
-[Parameter127]
-Name=ASYNOTE_11
-Value=11. LABEL EACH ASSEMBLY WITH STANDARD IN HOUSE BUILD ID AND BOARD NUMBER.
+[Parameter5]
+Name=ASY_CURRENT_REV
+Value=C
 
-[Parameter128]
-Name=ASYNOTE_10
-Value=10. FINAL ASSEMBLY SHALL CONFORM TO IPC-A-610 CLASS 2.
+[Parameter6]
+Name=ASY_ECO_DATE1
+Value=10/24/2019
 
-[Parameter129]
-Name=ASYNOTE_9
-Value=9.  DO NOT APPLY CONFORMAL COATING.
+[Parameter7]
+Name=ASY_ECO_DATE2
+Value=2/10/2020
 
-[Parameter130]
-Name=ASYNOTE_8
-Value=8.  THIS DESIGN DOES INCLUDE MOISTURE SENSITIVE PARTS.
+[Parameter8]
+Name=ASY_ECO_DATE3
+Value=8/17/2020
 
-[Parameter131]
-Name=ASYNOTE_7
-Value=7.  AQUEOUS WASH IS NOT PERMITTED.
+[Parameter9]
+Name=ASY_ECO_DATE4
+Value=
 
-[Parameter132]
-Name=ASYNOTE_5
-Value=5.  LEAD-FREE SOLDER PROCESS REQUIRED (ROHS).
+[Parameter10]
+Name=ASY_ECO_DATE5
+Value=
 
-[Parameter133]
-Name=ASYNOTE_4
-Value=4.  REFER TO "644-001-032 ASY REV C XYRS ECO13237.TXT" IN THIS ARCHIVE
+[Parameter11]
+Name=ASY_ECO_DESC1
+Value=INITIAL RELEASE
 
-[Parameter134]
-Name=ASYNOTE_2
-Value=2.  REFER TO "644-001-031 BOM REV C ECO13237.XLSX" IN THIS ARCHIVE
+[Parameter12]
+Name=ASY_ECO_DESC2
+Value=MISCELLANEOUS UPDATES. SEE ECO FOR DETAILS.
 
-[Parameter135]
-Name=ASYNOTE_1
-Value=1.  DIMENSIONS ARE IN INCHES.
+[Parameter13]
+Name=ASY_ECO_DESC3
+Value=UPDATED ASSY NOTES. UPDATED SS IN PCB. UPDATED BOM. SEE ECO FOR DETAILS.
 
-[Parameter136]
+[Parameter14]
+Name=ASY_ECO_DESC4
+Value=
+
+[Parameter15]
+Name=ASY_ECO_DESC5
+Value=
+
+[Parameter16]
+Name=ASY_ECO_NUM1
+Value=12932
+
+[Parameter17]
+Name=ASY_ECO_NUM2
+Value=13065
+
+[Parameter18]
+Name=ASY_ECO_NUM3
+Value=13237
+
+[Parameter19]
+Name=ASY_ECO_NUM4
+Value=
+
+[Parameter20]
+Name=ASY_ECO_NUM5
+Value=
+
+[Parameter21]
+Name=ASY_ECO_NUM_CURRENT
+Value=13237
+
+[Parameter22]
+Name=ASY_ECO_REV1
+Value=A
+
+[Parameter23]
+Name=ASY_ECO_REV2
+Value=B
+
+[Parameter24]
+Name=ASY_ECO_REV3
+Value=C
+
+[Parameter25]
+Name=ASY_ECO_REV4
+Value=
+
+[Parameter26]
+Name=ASY_ECO_REV5
+Value=
+
+[Parameter27]
+Name=ASY_Moisture_Sensitive_CB_Value
+Value=1
+
+[Parameter28]
+Name=ASY_NAME
+Value=Smartfin Main PCBA
+
+[Parameter29]
+Name=ASY_ROHS
+Value=ROHS COMPLIANT LEAD-FREE SOLDER PROCESS REQUIRED
+
+[Parameter30]
+Name=ASY_RoHS_CB_Value
+Value=True
+
+[Parameter31]
+Name=ASY_WASH
+Value=NOT PERMITTED
+
+[Parameter32]
+Name=ASY_Wash_CB_Value
+Value=0
+
+[Parameter33]
+Name=ASY_XYRS_FILE_NAME
+Value=644-001-032 ASY REV C XYRS ECO13237.TXT
+
+[Parameter34]
+Name=ASYDWG_DOCNUM
+Value=644-001-032
+
+[Parameter35]
 Name=ASYDWG_MOISTURE_SENSITIVE
 Value=THIS DESIGN DOES NOT INCLUDE MOISTURE SENSITIVE PARTS
 
+[Parameter36]
+Name=ASYNOTE_1
+Value=1.  DIMENSIONS ARE IN INCHES.
+
+[Parameter37]
+Name=ASYNOTE_2
+Value=2.  REFER TO "644-001-031 BOM REV C ECO13237.XLSX" IN THIS ARCHIVE
+
+[Parameter38]
+Name=ASYNOTE_4
+Value=4.  REFER TO "644-001-032 ASY REV C XYRS ECO13237.TXT" IN THIS ARCHIVE
+
+[Parameter39]
+Name=ASYNOTE_5
+Value=5.  LEAD-FREE SOLDER PROCESS REQUIRED (ROHS).
+
+[Parameter40]
+Name=ASYNOTE_7
+Value=7.  AQUEOUS WASH IS NOT PERMITTED.
+
+[Parameter41]
+Name=ASYNOTE_8
+Value=8.  THIS DESIGN DOES INCLUDE MOISTURE SENSITIVE PARTS.
+
+[Parameter42]
+Name=ASYNOTE_9
+Value=9.  DO NOT APPLY CONFORMAL COATING.
+
+[Parameter43]
+Name=ASYNOTE_10
+Value=10. FINAL ASSEMBLY SHALL CONFORM TO IPC-A-610 CLASS 2.
+
+[Parameter44]
+Name=ASYNOTE_11
+Value=11. LABEL EACH ASSEMBLY WITH STANDARD IN HOUSE BUILD ID AND BOARD NUMBER.
+
+[Parameter45]
+Name=ASYNOTE_MOISTURESENSITIVE
+Value=FALSE
+
+[Parameter46]
+Name=ASYNOTE_ROHS
+Value=TRUE
+
+[Parameter47]
+Name=ASYNOTE_WASH
+Value=FALSE
+
+[Parameter48]
+Name=BASELINE_CURRENT_REV
+Value=C
+
+[Parameter49]
+Name=BASELINE_DOCNUM
+Value=644-001-033
+
+[Parameter50]
+Name=BASELINE_ECO_DATE1
+Value=10/24/2019
+
+[Parameter51]
+Name=BASELINE_ECO_DATE2
+Value=2/10/2020
+
+[Parameter52]
+Name=BASELINE_ECO_DATE3
+Value=8/17/2020
+
+[Parameter53]
+Name=BASELINE_ECO_DESC1
+Value=
+
+[Parameter54]
+Name=BASELINE_ECO_DESC2
+Value=
+
+[Parameter55]
+Name=BASELINE_ECO_DESC3
+Value=
+
+[Parameter56]
+Name=BASELINE_ECO_NUM1
+Value=12932
+
+[Parameter57]
+Name=BASELINE_ECO_NUM2
+Value=13065
+
+[Parameter58]
+Name=BASELINE_ECO_NUM3
+Value=13237
+
+[Parameter59]
+Name=BASELINE_ECO_NUM_CURRENT
+Value=13237
+
+[Parameter60]
+Name=BASELINE_ECO_REV1
+Value=A
+
+[Parameter61]
+Name=BASELINE_ECO_REV2
+Value=B
+
+[Parameter62]
+Name=BASELINE_ECO_REV3
+Value=C
+
+[Parameter63]
+Name=BOM_DOCNUM
+Value=644-001-031
+
+[Parameter64]
+Name=CONTACT_EMAIL
+Value=ADOMINO@SYNCRONESS.COM
+
+[Parameter65]
+Name=CONTACT_NAME
+Value=AMY DOMINO
+
+[Parameter66]
+Name=CONTACT_PHONE
+Value=720-409-5253
+
+[Parameter67]
+Name=FAB_ACCEPT_RG_VALUE
+Value=1
+
+[Parameter68]
+Name=FAB_CURRENT_REV
+Value=C
+
+[Parameter69]
+Name=FAB_DIMENSIONS
+Value=INCHES
+
+[Parameter70]
+Name=FAB_DIMENSIONS_RG_VALUE
+Value=0
+
+[Parameter71]
+Name=FAB_DRILL_TOLERANCE
+Value=0.003"
+
+[Parameter72]
+Name=FAB_ECO_DATE1
+Value=10/24/2019
+
+[Parameter73]
+Name=FAB_ECO_DATE2
+Value=2/10/2020
+
+[Parameter74]
+Name=FAB_ECO_DATE3
+Value=8/17/2020
+
+[Parameter75]
+Name=FAB_ECO_DATE4
+Value=
+
+[Parameter76]
+Name=FAB_ECO_DATE5
+Value=
+
+[Parameter77]
+Name=FAB_ECO_DESC1
+Value=INITIAL RELEASE
+
+[Parameter78]
+Name=FAB_ECO_DESC2
+Value=MISCELLANEOUS UPDATES. SEE ECO FOR DETAILS.
+
+[Parameter79]
+Name=FAB_ECO_DESC3
+Value=UPDATED SS IN GPS AREA. MODIFED INTERNAL GND POURS IN GPS AREA. SEE ECO FOR DETAILS.
+
+[Parameter80]
+Name=FAB_ECO_DESC4
+Value=
+
+[Parameter81]
+Name=FAB_ECO_DESC5
+Value=
+
+[Parameter82]
+Name=FAB_ECO_NUM1
+Value=12932
+
+[Parameter83]
+Name=FAB_ECO_NUM2
+Value=13065
+
+[Parameter84]
+Name=FAB_ECO_NUM3
+Value=13237
+
+[Parameter85]
+Name=FAB_ECO_NUM4
+Value=
+
+[Parameter86]
+Name=FAB_ECO_NUM5
+Value=
+
+[Parameter87]
+Name=FAB_ECO_NUM_CURRENT
+Value=13237
+
+[Parameter88]
+Name=FAB_ECO_REV1
+Value=A
+
+[Parameter89]
+Name=FAB_ECO_REV2
+Value=B
+
+[Parameter90]
+Name=FAB_ECO_REV3
+Value=C
+
+[Parameter91]
+Name=FAB_ECO_REV4
+Value=
+
+[Parameter92]
+Name=FAB_ECO_REV5
+Value=
+
+[Parameter93]
+Name=FAB_FAB_CLASS
+Value=2
+
+[Parameter94]
+Name=FAB_FINISH_RG_VALUE
+Value=0
+
+[Parameter95]
+Name=FAB_FINISHED_CU_WEIGHT
+Value=1.5
+
+[Parameter96]
+Name=FAB_HOLE_LOCATION
+Value=0.008"
+
+[Parameter97]
+Name=FAB_INSPECT_CLASS
+Value=2
+
+[Parameter98]
+Name=FAB_IPC_STD
+Value=IPC-6012
+
+[Parameter99]
+Name=FAB_LAYER_REGISTRATION
+Value=0.005"
+
+[Parameter100]
+Name=FAB_LAYERS
+Value=4
+
+[Parameter101]
+Name=FAB_MATERIAL
+Value=FR370-HR
+
+[Parameter102]
+Name=FAB_MATERIAL_RG_VALUE
+Value=3
+
+[Parameter103]
+Name=FAB_MIN_ANNULAR_RING
+Value=0.005"
+
+[Parameter104]
+Name=FAB_OL_LPI
+Value=
+
+[Parameter105]
+Name=FAB_OVERLAY_COLOR
+Value=WHITE
+
+[Parameter106]
+Name=FAB_ROHS
+Value=SHALL BE ROHS COMPLIANT
+
+[Parameter107]
+Name=FAB_SM_LPI
+Value=
+
+[Parameter108]
+Name=FAB_SOLDER_SLIVERS
+Value=0.004"
+
+[Parameter109]
+Name=FAB_SOLDERMASK_COLOR
+Value=BLUE
+
+[Parameter110]
+Name=FAB_STACKUP
+Value=USE FABRICATOR'S STANDARD LAYER STACK
+
+[Parameter111]
+Name=FAB_STACKUP_CB_VALUE
+Value=0
+
+[Parameter112]
+Name=FAB_STANDARD_RG_VALUE
+Value=1
+
+[Parameter113]
+Name=FAB_SURFACE_FINISH
+Value=ENIG
+
+[Parameter114]
+Name=FAB_THICKNESS
+Value=0.032
+
+[Parameter115]
+Name=FAB_THIEVING_SPACE
+Value=0.100"
+
+[Parameter116]
+Name=FABDWG_DOCNUM
+Value=644-001-024
+
+[Parameter117]
+Name=FABNOTE_1
+Value=1.  DIMENSIONS ARE IN INCHES.
+
+[Parameter118]
+Name=FABNOTE_2A
+Value=2.  FABRICATE PCB PER IPC-6011 AND IPC-6012A, CLASS 2.
+
+[Parameter119]
+Name=FABNOTE_2B
+Value=INSPECT PER IPC-A-600, CLASS 2.
+
+[Parameter120]
+Name=FABNOTE_5
+Value=5.  PCB MATERIAL IS EPOXY FIBERGLASS FR370-HR.
+
+[Parameter121]
+Name=FABNOTE_6
+Value=6.  PCB IS 4 LAYERS, THICKNESS IS 0.032", USE FABRICATOR'S STANDARD LAYER STACK.
+
+[Parameter122]
+Name=FABNOTE_9
+Value=9.  SOLDER MASK BOTH SIDES PER IPC-SM-840, COLOR IS BLUE.
+
+[Parameter123]
+Name=FABNOTE_10
+Value=10. OVERLAY ON BOTH SIDES, COLOR IS WHITE, UL-94V0 MARK REQUIRED.
+
+[Parameter124]
+Name=FABNOTE_11
+Value=11. SURFACE FINISH ON ALL EXPOSED COPPER SHALL BE ENIG.
+
+[Parameter125]
+Name=FABNOTE_12
+Value=12. FINISHED PCB SHALL BE ROHS COMPLIANT.
+
+[Parameter126]
+Name=FABNOTE_CUSTOMSTACK
+Value=FALSE
+
+[Parameter127]
+Name=FABNOTE_LAYERS
+Value=4
+
+[Parameter128]
+Name=FABNOTE_THICKNESS
+Value=0.032
+
+[Parameter129]
+Name=OVERLAY_COLOR
+Value=WHITE
+
+[Parameter130]
+Name=OVERLAY_USE_LPI
+Value=FALSE
+
+[Parameter131]
+Name=PROJECT_NAME
+Value=Smartfin
+
+[Parameter132]
+Name=PROJECT_NUM
+Value=644-001
+
+[Parameter133]
+Name=SCH_CURRENT_REV
+Value=C
+
+[Parameter134]
+Name=SCH_DOCNUM
+Value=644-001-023
+
+[Parameter135]
+Name=SOLDERMASK_COLOR
+Value=BLUE
+
+[Parameter136]
+Name=SOLDERMASK_USE_LPI
+Value=FALSE
+
 [Parameter137]
-Name=ASYDWG_DOCNUM
-Value=644-001-032
+Name=STATUS
+Value=
 
 [Configuration1]
 Name=Sources
@@ -1607,7 +1453,7 @@ OutputDefault3=0
 Configuration3_Name1=ForceUpdateSettings
 Configuration3_Item1=False
 Configuration3_Name2=OutputConfigurationParameter1
-Configuration3_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressLeadingZeroes
+Configuration3_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressLeadingZeroes
 OutputType4=IPC2581
 OutputName4=IPC-2581 Files
 OutputDocumentPath4=
@@ -1661,7 +1507,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842754~1,16842753~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908290~1,16908292~1,16908294~1,16908296~1,16908301~1,16908303~1,16973837~1,16973848~1,16973849~1|PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=40|MinusApertureTolerance=40|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842754~1,16842753~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908290~1,16908292~1,16908294~1,16908296~1,16908301~1,16908303~1,16973837~1,16973848~1,16973849~1|PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=40|PlusApertureTolerance=40|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
