@@ -30,7 +30,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-OutputPath=
+OutputPath=Project Outputs for Smartfin Main PCBA
 LogFolderPath=
 ManagedProjectGUID=
 VaultGUID=DF6290C1-A6F2-4676-B023-DC522903B088
@@ -369,12 +369,29 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document20]
+DocumentPath=Smartfin Main PCBA.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=C246BEA5-136F-4B9E-98D9-E8383F1DFA4E
 Description=Smartfin Main PCBA - 2G/3G
 AllowFabrication=0
 ParameterCount=5
-VariationCount=10
+VariationCount=11
 Variation1=Designator=R34|UniqueId=\XWFOLWFS\CRRPQHOI\TTDGSKQB|Kind=1|AlternatePart= 
 Variation2=Designator=R37|UniqueId=\XWFOLWFS\CRRPQHOI\UKPQWSSO|Kind=1|AlternatePart= 
 Variation3=Designator=R39|UniqueId=\XWFOLWFS\CRRPQHOI\MRFJPVEG|Kind=1|AlternatePart= 
@@ -385,6 +402,7 @@ Variation7=Designator=R32|UniqueId=\XWFOLWFS\CRRPQHOI\WBGBTAGG|Kind=1|AlternateP
 Variation8=Designator=R35|UniqueId=\XWFOLWFS\CRRPQHOI\SUSHIVKU|Kind=1|AlternatePart= 
 Variation9=Designator=J1|UniqueId=\XWFOLWFS\OKYBHWKJ\XSLUBKXF|Kind=1|AlternatePart= 
 Variation10=Designator=J3|UniqueId=\XWFOLWFS\CRRPQHOI\HSUTTTBD|Kind=1|AlternatePart= 
+Variation11=Designator=R23|UniqueId=\XWFOLWFS\CRRPQHOI\SLEFGHSH|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter2_1]
@@ -412,18 +430,13 @@ UniqueID=D5673E44-466E-48E5-84B6-DD3D99688B9A
 Description=Smartfin Main PCBA - LTE
 AllowFabrication=0
 ParameterCount=5
-VariationCount=11
+VariationCount=7
 Variation1=Designator=R34|UniqueId=\XWFOLWFS\CRRPQHOI\TTDGSKQB|Kind=1|AlternatePart= 
 Variation2=Designator=R37|UniqueId=\XWFOLWFS\CRRPQHOI\UKPQWSSO|Kind=1|AlternatePart= 
 Variation3=Designator=R39|UniqueId=\XWFOLWFS\CRRPQHOI\MRFJPVEG|Kind=1|AlternatePart= 
-Variation4=Designator=U8|UniqueId=\XWFOLWFS\CRRPQHOI\JRBAUNPK|Kind=0|AlternatePart= 
-Variation5=Designator=R13|UniqueId=\XWFOLWFS\CRRPQHOI\NYZULQTR|Kind=0|AlternatePart= 
-Variation6=Designator=R36|UniqueId=\XWFOLWFS\CRRPQHOI\CPNJFELC|Kind=0|AlternatePart= 
-Variation7=Designator=R32|UniqueId=\XWFOLWFS\CRRPQHOI\WBGBTAGG|Kind=0|AlternatePart= 
-Variation8=Designator=R35|UniqueId=\XWFOLWFS\CRRPQHOI\SUSHIVKU|Kind=0|AlternatePart= 
-Variation9=Designator=J1|UniqueId=\XWFOLWFS\OKYBHWKJ\XSLUBKXF|Kind=1|AlternatePart= 
-Variation10=Designator=J3|UniqueId=\XWFOLWFS\CRRPQHOI\HSUTTTBD|Kind=1|AlternatePart= 
-Variation11=Designator=U1|UniqueId=\XWFOLWFS\CRRPQHOI\EDVHYGOB|Kind=2|AlternatePart=Particle E-Series LTE CAT M1|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=Syncroness Vault|AltLibLink_SymbolReference=CMP-23692-A.9|AltLibLink_DesignItemID=CMP-23692-A.9|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Syncroness Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=DF6290C1-A6F2-4676-B023-DC522903B088|AltLibLink_ItemGUID=58490942-11ad-491c-817c-87dd542658c3|AltLibLink_RevisionGUID=cd714837-357b-47d3-968a-8fbbae04aaf4|AltLibLink_Footprint=Particle E-Series-Footprint-1|AltLibLink_IsSameFootprint=True
+Variation4=Designator=J1|UniqueId=\XWFOLWFS\OKYBHWKJ\XSLUBKXF|Kind=1|AlternatePart= 
+Variation5=Designator=J3|UniqueId=\XWFOLWFS\CRRPQHOI\HSUTTTBD|Kind=1|AlternatePart= 
+Variation6=Designator=U1|UniqueId=\XWFOLWFS\CRRPQHOI\EDVHYGOB|Kind=2|AlternatePart=Particle E-Series LTE CAT M1|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=Syncroness Vault|AltLibLink_SymbolReference=CMP-23692-A.9|AltLibLink_DesignItemID=CMP-23692-A.9|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Syncroness Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=DF6290C1-A6F2-4676-B023-DC522903B088|AltLibLink_ItemGUID=58490942-11ad-491c-817c-87dd542658c3|AltLibLink_RevisionGUID=cd714837-357b-47d3-968a-8fbbae04aaf4|AltLibLink_Footprint=Particle E-Series-Footprint-1|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue=Particle E-Series LTE CAT M1
 ParamDesignator1=U1
 ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
@@ -454,6 +467,7 @@ ParamVariation14=ParameterName=Supplier|VariantValue=Particle
 ParamDesignator14=U1
 ParamVariation15=ParameterName=Supplier Part Number|VariantValue=E402MOD1
 ParamDesignator15=U1
+Variation7=Designator=R23|UniqueId=\XWFOLWFS\CRRPQHOI\SLEFGHSH|Kind=1|AlternatePart= 
 ParamVariationCount=15
 
 [Parameter3_1]
@@ -1104,8 +1118,44 @@ OutputJobFileName1=Smartfin Main PCBA - 2G3G.OutJob
 ContentTypeGUID=B953ABBB-897D-493B-96D2-85DABE1896C4
 ConfigurationType=Custom
 
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=-1
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=-1
+TemplateFilename=Board Stack Report.XLT
+TemplateStoreRelative=0
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+SCH_ExpandLogicalToPhysical=0
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
+
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Smartfin Main PCBA
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1676,6 +1726,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
